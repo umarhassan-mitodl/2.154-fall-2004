@@ -1,0 +1,64 @@
+{
+  "term": "Fall",
+  "year": "2004",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Engineering",
+      "Mechanical Engineering",
+      "Fluid Mechanics"
+    ],
+    [
+      "Engineering",
+      "Mechanical Engineering",
+      "Dynamics and Control"
+    ],
+    [
+      "Engineering",
+      "Ocean Engineering",
+      "Hydrodynamics"
+    ],
+    [
+      "Engineering",
+      "Systems Engineering",
+      "Computational Modeling and Simulation"
+    ],
+    [
+      "Engineering",
+      "Mechanical Engineering",
+      "Mechanical Design"
+    ]
+  ],
+  "legacy_uid": "04d4d81b-f29e-a0ff-833c-76d6868cbaad",
+  "instructors": {
+    "content": [
+      "fe578240-c5f9-a069-7bc9-ba4b41e3a804"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "cb28974f-ff7b-2ae2-5101-66c0ab657bdf",
+    "website": "2-154-maneuvering-and-control-of-surface-and-underwater-vehicles-13-49-fall-2004"
+  },
+  "course_title": "Maneuvering and Control of Surface and Underwater Vehicles (13.49)",
+  "course_description": "This course is about maneuvering motions of surface and underwater vehicles. Topics covered include: derivation of equations of motion, hydrodynamic coefficients, memory effects, linear and nonlinear forms of the equations of motion, control surfaces modeling and design, engine, propulsor, and transmission systems modeling and simulation during maneuvering. The course also deals with\u00a0stability of motion, principles of multivariable automatic control, optimal control, Kalman filtering, and loop transfer recovery. We will also explore applications chosen from autopilots for surface vehicles; towing in open seas; and remotely operated vehicles.\n\nThis course was originally offered in Course 13 (Department of Ocean Engineering) as 13.49. In 2005, ocean engineering subjects became part of Course 2 (Department of Mechanical Engineering), and this course was renumbered 2.154.\n",
+  "department_numbers": [
+    "2"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "2.154",
+  "course_image_thumbnail": {
+    "content": "815318a3-d95a-3d26-800f-327642ec7ca5",
+    "website": "2-154-maneuvering-and-control-of-surface-and-underwater-vehicles-13-49-fall-2004"
+  },
+  "learning_resource_types": [
+    "Lecture Notes",
+    "Open Textbooks"
+  ],
+  "site_uid": "de00d256-573d-4c73-a3bb-31ad8d750513",
+  "site_short_id": "2.154-fall-2004",
+  "site_url_path": "courses/2-154-maneuvering-and-control-of-surface-and-underwater-vehicles-13-49-fall-2004",
+  "title": "Course Metadata"
+}
