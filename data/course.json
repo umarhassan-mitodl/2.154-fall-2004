@@ -43,6 +43,7 @@
     "website": "2-154-maneuvering-and-control-of-surface-and-underwater-vehicles-13-49-fall-2004"
   },
   "course_title": "Maneuvering and Control of Surface and Underwater Vehicles (13.49)",
+  "hide_download": true,
   "course_description": "This course is about maneuvering motions of surface and underwater vehicles. Topics covered include: derivation of equations of motion, hydrodynamic coefficients, memory effects, linear and nonlinear forms of the equations of motion, control surfaces modeling and design, engine, propulsor, and transmission systems modeling and simulation during maneuvering. The course also deals with\u00a0stability of motion, principles of multivariable automatic control, optimal control, Kalman filtering, and loop transfer recovery. We will also explore applications chosen from autopilots for surface vehicles; towing in open seas; and remotely operated vehicles.\n\nThis course was originally offered in Course 13 (Department of Ocean Engineering) as 13.49. In 2005, ocean engineering subjects became part of Course 2 (Department of Mechanical Engineering), and this course was renumbered 2.154.\n",
   "department_numbers": [
     "2"
@@ -53,6 +54,7 @@
     "content": "815318a3-d95a-3d26-800f-327642ec7ca5",
     "website": "2-154-maneuvering-and-control-of-surface-and-underwater-vehicles-13-49-fall-2004"
   },
+  "hide_download_original": true,
   "learning_resource_types": [
     "Lecture Notes",
     "Open Textbooks"

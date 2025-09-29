@@ -7,6 +7,8 @@ description: 'Section from the course lecture notes (Triantafyllou, Michael S., 
 file: /courses/2-154-maneuvering-and-control-of-surface-and-underwater-vehicles-13-49-fall-2004/dd2b3f06232fe4d7f919712f60be10ab_lec5.pdf
 file_size: 151501
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

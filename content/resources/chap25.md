@@ -5,6 +5,8 @@ description: This project asks the student to carry out modeling and control sys
 file: /courses/2-154-maneuvering-and-control-of-surface-and-underwater-vehicles-13-49-fall-2004/de07d0a84cf5b3b62512de6e0074b982_chap25.pdf
 file_size: 111073
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
