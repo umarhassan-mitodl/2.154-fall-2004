@@ -4,8 +4,6 @@ description: Problem set.
 file: /courses/2-154-maneuvering-and-control-of-surface-and-underwater-vehicles-13-49-fall-2004/b679f34da3f91fbc5d5e00db72b95f86_homework_4.pdf
 file_size: 53924
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
